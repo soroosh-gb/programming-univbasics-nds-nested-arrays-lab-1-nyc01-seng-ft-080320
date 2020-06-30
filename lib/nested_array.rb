@@ -23,6 +23,7 @@ def assembled_matrix [
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
   ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]
+]
 end
 
 def sorted_matrix
